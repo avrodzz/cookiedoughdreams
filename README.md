@@ -7,16 +7,16 @@
 ### Expected vs. Actual Reality
 
 - Home Page
-<img src="../cookiedoughdreams/src/assets/photos/homePage.png" alt="Home Page">
+<img src="src/assets/photos/homePage.png" alt="Home Page">
 
 - About Us Page
-<img src="../cookiedoughdreams/src/assets/photos/aboutUsPage.png" alt="About Us Page">
+<img src="src/assets/photos/aboutUsPage.png" alt="About Us Page">
   
 - Products Page
-<img src="../cookiedoughdreams/src/assets/photos/productsPage.png" alt="Products Page">
+<img src="src/assets/photos/productsPage.png" alt="Products Page">
 
 - Locations Page
-<img src="../cookiedoughdreams/src/assets/photos/locationsPage.png" alt="Locations Page">
+<img src="src/assets/photos/locationsPage.png" alt="Locations Page">
 
 - Contact Page
-<img src="../cookiedoughdreams/src/assets/photos/contactPage.png" alt="Contact Page">
+<img src="src/assets/photos/contactPage.png" alt="Contact Page">
